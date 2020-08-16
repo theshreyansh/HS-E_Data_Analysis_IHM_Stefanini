@@ -3,7 +3,7 @@
 ### This dataset contains information about accidents in 12 manufacturing plants across 3 countries given by a Brazilian company, IHM Stefanini. We will use this dataset to understand why accidents occur, and try to discover clues to reduce tragedic accidents.
 
 #### Columns in this dataset are:
-
+ 
 * Date : timestamp or time/date information
 * Countries : which country the accident occurred (anonymized)
 * Local : the city where the manufacturing plant is located (anonymized)
